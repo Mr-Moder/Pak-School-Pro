@@ -1,13 +1,13 @@
 {
   "background_color": "#3377ff",
-  "description": "Oxford Science Public School &amp;amp; College — built on Replit. Update this description to reflect the app.",
+  "description": "Oxford Science Public School &amp;amp;amp; College — built on Replit. Update this description to reflect the app.",
   "dir": "ltr",
-  "display": "standalone",
-  "name": "School Manager App",
+  "display": "fullscreen",
+  "name": "Pak School Pro",
   "orientation": "any",
   "scope": "/",
   "short_name": "School Manager",
-  "start_url": "/",
+  "start_url": "https://pakschoolpr0.vercel.app/login",
   "theme_color": "#6bea7b",
   "icons": [
     {
@@ -35,5 +35,12 @@
       "is192x192": false
     }
   ],
-  "id": "smaRt"
+  "id": "smaRt",
+  "lang": "en",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "education"
+  ]
 }
