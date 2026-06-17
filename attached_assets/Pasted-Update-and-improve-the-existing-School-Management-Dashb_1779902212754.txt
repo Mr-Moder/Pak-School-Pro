@@ -1,0 +1,151 @@
+Update and improve the existing School Management Dashboard for:
+
+Oxford Science Public School and College
+
+Make the UI more modern, attractive, user-friendly, and mobile responsive with smooth animations, better cards, cleaner tables, and colorful academic analytics.
+
+====================================
+1. UPDATE CLASSES SEQUENCE
+====================================
+
+Update class sequence to:
+
+- Play Group
+- Nursery
+- Prep
+- One
+- Two
+- Three
+- Four
+- Five
+- Six
+- Seven
+- Eight
+- Ninth
+- Tenth
+- First Year
+- Second Year
+
+====================================
+2. IMPROVE ACADEMICS SECTION
+====================================
+
+In Academics Menu, improve marks entry system.
+
+Current system should be replaced with a simpler and smarter interface.
+
+Add features:
+
+- Select Student
+- Select Class
+- Select Subject
+- Select Exam Type
+- Enter Total Marks
+- Enter Obtained Marks
+- Auto calculate:
+  - Percentage
+  - Grade
+  - Pass/Fail Status
+Get input from admin for passing percentage 
+
+Add dropdown for subjects.
+
+Add editable exam settings where admin can:
+- Change total marks
+- Add multiple exams
+- Edit exam marks later
+
+Make marks entry very easy and mobile-friendly.
+
+Use:
+- Input boxes
+- Dropdown menus
+- Auto calculations
+- Simple save button
+
+====================================
+3. ADD COMPLETE EXAM SECTION
+====================================
+
+Create a new sidebar menu called:
+
+EXAMS
+
+Inside Exams section create subsections:
+
+- Daily Test
+- Weekly Test
+- Monthly Test
+- Quarter Test 1
+- Quarter Test 2
+- Quarter Test 3
+- Quarter Test 4
+- Half Book Test
+- Full Book Test
+
+For every exam type admin can:
+
+- Create exam
+- Select class
+- Select subject
+- Set exam date
+- Add exam title
+- Add total marks for each subject 
+- Edit or delete exam
+
+Add exam calendar view.
+
+====================================
+4. STUDENT PROGRESS TRACKING
+====================================
+
+Create Student Progress section.
+
+Admin should be able to track progress:
+
+- Daily
+- Weekly
+- Monthly
+- Quarterly
+- Half Book
+- Full Book
+
+Show:
+- Attendance percentage
+- Marks progress
+- Subject performance
+- Weak subjects
+- Improvement charts
+- Overall performance
+
+Add colorful progress bars and charts.
+
+====================================
+5. SECURITY SETTINGS
+====================================
+
+Add Security Settings section.
+
+Allow users to:
+
+- Change username
+- Change password 
+
+Add confirmation popup before changing username.
+
+====================================
+6. UI/UX IMPROVEMENTS
+====================================
+
+Make the dashboard more attractive:
+
+- Modern sidebar
+- Animated dashboard cards
+- Better charts
+- Professional blue/white theme
+- Dark mode
+- Rounded cards
+- Better typography
+- Mobile and desktop responsive design
+- Smooth transitions
+- Attractive tables

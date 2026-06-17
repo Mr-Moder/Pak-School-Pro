@@ -1,0 +1,208 @@
+src/components/ui/tooltip.tsx (2:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/components/ui/sheet.tsx (2:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/components/ui/label.tsx (2:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/components/ui/select.tsx (2:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/components/ui/progress.tsx (2:0): Error
+
+
+
+
+VERCEL BUILD ERROR FIX – SOURCE MAP & UI COMPONENT AUDIT
+
+Analyze my entire project and completely fix the Vercel deployment/build failure.
+
+Project Stack:
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Radix UI
+- Firebase
+- Vercel
+
+---
+
+CURRENT BUILD ERRORS
+
+The previous TypeScript errors have already been fixed.
+
+Now the deployment fails with the following errors:
+
+src/components/ui/tooltip.tsx (2:0):
+Error when using sourcemap for reporting an error:
+Can't resolve original location of error.
+
+src/components/ui/sheet.tsx (2:0):
+Error when using sourcemap for reporting an error:
+Can't resolve original location of error.
+
+src/components/ui/label.tsx (2:0):
+Error when using sourcemap for reporting an error:
+Can't resolve original location of error.
+
+src/components/ui/select.tsx (2:0):
+Error when using sourcemap for reporting an error:
+Can't resolve original location of error.
+
+src/components/ui/progress.tsx (2:0):
+Error when using sourcemap for reporting an error:
+Can't resolve original location of error.
+
+---
+
+PRIMARY OBJECTIVE
+
+Determine the exact root cause of these errors and make the project build successfully on Vercel.
+
+Do not provide assumptions.
+
+Analyze and fix the actual source files and configuration.
+
+---
+
+SOURCE FILE AUDIT
+
+Inspect:
+
+- src/components/ui/tooltip.tsx
+- src/components/ui/sheet.tsx
+- src/components/ui/label.tsx
+- src/components/ui/select.tsx
+- src/components/ui/progress.tsx
+
+Verify:
+
+- Imports
+- Exports
+- React syntax
+- TypeScript syntax
+- Radix UI imports
+- Path aliases
+- Build compatibility
+
+Check whether:
+
+- Files are corrupted
+- Files were copied incompletely
+- Generated shadcn files are outdated
+- Source map references are invalid
+- Imports reference non-existing files
+
+---
+
+SHADCN/UI AUDIT
+
+Verify all shadcn/ui components.
+
+Check compatibility between:
+
+- shadcn/ui
+- Radix UI packages
+- React version
+- TypeScript version
+
+Identify outdated components.
+
+Regenerate components if required.
+
+If regeneration is needed:
+
+Provide exact commands.
+
+---
+
+DEPENDENCY AUDIT
+
+Review package.json completely.
+
+Verify versions of:
+
+- react
+- react-dom
+- vite
+- typescript
+- tailwindcss
+- shadcn/ui
+- class-variance-authority
+- clsx
+- tailwind-merge
+- lucide-react
+
+Verify all Radix packages:
+
+- @radix-ui/react-tooltip
+- @radix-ui/react-dialog
+- @radix-ui/react-label
+- @radix-ui/react-select
+- @radix-ui/react-progress
+
+Detect:
+
+- Version conflicts
+- Missing packages
+- Duplicate packages
+- Incompatible versions
+
+Provide exact fixes.
+
+---
+
+VITE CONFIGURATION AUDIT
+
+Inspect:
+
+- vite.config.ts
+- tsconfig.json
+- tsconfig.app.json
+- tsconfig.node.json
+
+Check:
+
+- Path aliases
+- Source map configuration
+- Build configuration
+- Plugin configuration
+
+Verify whether source maps are causing the failure.
+
+If necessary:
+
+- Disable problematic source maps
+- Correct source map generation
+- Fix broken mappings
+
+---
+
+IMPORT PATH AUDIT
+
+Verify all imports used by:
+
+- tooltip.tsx
+- sheet.tsx
+- label.tsx
+- select.tsx
+- progress.tsx
+
+Check:
+
+- Relative paths
+- Alias paths
+- Missing files
+- Incorrect extensions
+- Circular imports
+
+Fix all issues.
+
+---
+
+also check it
+src/components/ui/tooltip.tsx
+src/components/ui/sheet.tsx
+src/components/ui/label.tsx
+src/components/ui/select.tsx
+src/components/ui/progress.tsx
+package.json
+vite.config.ts
+tsconfig.json

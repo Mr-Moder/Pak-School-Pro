@@ -1,0 +1,242 @@
+Upgrade and improve the existing School Management Dashboard for:
+
+Oxford Science Public School and College
+
+Make the system more intelligent, fully connected, professional, mobile responsive, and easy to use on Android devices and desktop.
+
+COMPLETE STUDENT DATA DELETE SYSTEM
+
+When an admin deletes a student from the Student Section, the system must automatically remove ALL related student data from the entire system.
+
+Delete student data from:
+
+Dashboard statistics
+
+Academic records
+
+Attendance records
+
+Exam records
+
+Progress reports
+
+Ranking lists
+
+Top performers section
+
+Fee records
+
+Charts and analytics
+
+Search results
+
+Reports and exports
+
+Requirements:
+
+Real-time deletion updates
+
+No duplicate or remaining student data
+
+Confirmation popup before delete
+
+Secure delete system
+
+Refresh dashboard automatically after deletion
+
+Example: If student "Ali Khan" is deleted, all records of Ali Khan should disappear from every section automatically.
+
+ATTENDANCE SECTION IMPROVEMENTS
+
+Improve Attendance Section.
+
+When a class is selected, show:
+
+Total Students in Class
+
+Present Students
+
+Absent Students
+
+Attendance Percentage
+
+Also show PREVIOUS attendance history of selected class.
+
+Add:
+
+Daily attendance history
+
+Weekly attendance rate
+
+Monthly attendance rate
+
+
+Use charts and graphs for visualization.
+
+Example:
+
+Class Seven:
+
+Total Students: 35
+
+Present: 30
+
+Absent: 5
+
+Attendance Rate: 85%
+
+Show attendance analytics with:
+
+Bar charts
+
+Line graph
+
+Make attendance reports easy to read and mobile friendly.
+
+COMPLETE STUDENT PROGRESS REPORT SYSTEM
+
+
+
+
+After selecting student, show complete academic progress including:
+
+A. DAILY REPORT
+
+Show:
+
+Date-wise report
+
+Daily test marks
+
+Attendance status
+
+Subject-wise marks
+
+Teacher remarks
+
+B. WEEKLY TEST REPORT
+
+Show:
+
+Weekly test history
+
+Subject-wise obtained marks
+
+Total marks
+
+Percentage
+
+Position in class
+
+C. MONTHLY TEST REPORT
+
+Show:
+
+Monthly performance
+
+Subject-wise comparison
+
+Monthly percentage
+
+Improvement graph
+
+D. QUARTER REPORT
+
+Show:
+
+Quarter Test 1 Report
+
+Quarter Test 2 Report
+
+Quarter Test 3 Report
+
+Quarter Test 4 Report
+
+Include:
+
+Total obtained marks
+
+Total marks
+
+Percentage
+
+Position in class
+
+Rank comparison
+
+E. HALF BOOK REPORT
+
+Show:
+
+Half book test performance
+
+Subject-wise marks
+
+Overall percentage
+
+Class ranking
+
+F. FULL BOOK REPORT
+
+Show:
+
+Final full book performance
+
+Complete subject analysis
+
+Final ranking
+
+Final percentage
+
+Overall progress
+
+TOTAL MARKS SUMMARY SYSTEM
+
+Add a detailed marks summary section.
+
+For every report show:
+
+Subject-wise obtained marks
+
+Total obtained marks
+
+Total overall marks
+
+Example:
+
+English: 40 / 50 Math: 45 / 50 Science: 42 / 50 Urdu: 48 / 50 Islamiyat: 55 / 80
+
+TOTAL: 230 / 280
+
+Also automatically calculate:
+
+Percentage
+
+Grade
+
+Pass/Fail
+
+Position in class
+
+CLASS POSITION SYSTEM
+
+Add automatic ranking system.
+
+Show:
+
+Student Position in Class
+
+Total Students in Class
+
+Top 3 students comparison
+
+Performance ranking charts
+
+Example: Position: 2nd out of 35 students
+
+Use:
+
+Trophy icons
+
+Ranking badge
+also add one more subject Economics
