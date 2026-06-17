@@ -1,0 +1,39 @@
+{
+  "background_color": "#3377ff",
+  "description": "Oxford Science Public School &amp;amp; College — built on Replit. Update this description to reflect the app.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "School Manager App",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "School Manager",
+  "start_url": "/",
+  "theme_color": "#6bea7b",
+  "icons": [
+    {
+      "src": "https://oxford-school-hub--mr1moder.replit.app/favicon.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://oxford-school-hub--mr1moder.replit.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "smaRt"
+}
